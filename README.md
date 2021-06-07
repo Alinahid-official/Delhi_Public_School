@@ -10,3 +10,9 @@ It is a school website for Delhi Public School Organisation
  # Full_Admin_Customisation
  Full admin Control on gallery, principal message, notic,e admission form 
  ![alt text](https://res.cloudinary.com/dh0xesm3q/image/upload/v1623086943/dps/ezgif.com-gif-maker_1_uufvwr.gif)
+# Backend
+I have use express js , Node js for backend 
+to use download file 
+npm install
+npm start
+
